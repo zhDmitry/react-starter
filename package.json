@@ -16,7 +16,8 @@
   },
   "devDependencies": {
     "react-app-rewired": "^0.6.5",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "webpack-bundle-analyzer": "^2.4.0"
   },
   "proxy": "http://localhost:4000",
   "homepage": "https://zhDmitry.github.io/react-starter",
