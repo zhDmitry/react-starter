@@ -1,4 +1,4 @@
-import browserHistory from 'react-router/es/browserHistory'
+import { browserHistory } from 'react-router'
 
 export const LOCATION_CHANGE = 'LOCATION_CHANGE'
 

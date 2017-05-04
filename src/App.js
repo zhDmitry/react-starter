@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import browserHistory from 'react-router/es/browserHistory'
-import Router from 'react-router/es/Router'
+import { Router, browserHistory } from 'react-router'
 
 import { Provider } from 'react-redux'
 
