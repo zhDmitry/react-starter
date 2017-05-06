@@ -8,6 +8,6 @@ function rewireAnalizer(config, env) {
 
 
 module.exports = function override(config, env) {
-    rewireAnalizer(config, env);
+    // rewireAnalizer(config, env);
     return config;
 }
