@@ -1,4 +1,4 @@
-import makeRootReducer from '../reducers/reducers';
+import makeRootReducer from '../store/reducers';
 
 export const injectReducer = store => ({ key, reducer }) => {
     if (Object.hasOwnProperty.call(store.asyncReducers, key)) return
